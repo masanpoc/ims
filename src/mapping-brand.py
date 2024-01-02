@@ -4,6 +4,6 @@ my_dict = {
     "zara": "Zara",
     "ripc": "Rip Curl",
     "pull": "Pull & Bear",
-    "jack": "Jack & Jones"
-    "gosport": "Go Sport"
+    "jack": "Jack & Jones",
+    "gosport": "Go Sport",
 }

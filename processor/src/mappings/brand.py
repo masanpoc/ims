@@ -1,4 +1,4 @@
-my_dict = {
+brand_mapping = {
     "blbg": "Billabong",
     "adids": "Adidas",
     "zara": "Zara",
